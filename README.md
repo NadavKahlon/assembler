@@ -4,4 +4,4 @@ An assembler program - my final project in a System Programming course I took in
 To use it, run: `assembler/assembler [program_path]` where 'program_path' is a path to your assembly program (.as file), without the extension.\
 For more detail, please view the attached project specifications file.
 
-Some examples can be found in assembler/examples.
+Some examples can be found in ```examples```.
